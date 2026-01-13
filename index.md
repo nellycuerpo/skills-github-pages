@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Nelly char2
+description: Nelly char2
 ---
 
